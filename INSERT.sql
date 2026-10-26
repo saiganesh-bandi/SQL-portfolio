@@ -1,4 +1,4 @@
-[9:00 pm, 26/10/2026] Saiganesh Bandi: INSERT INTO E_Commerce
+INSERT INTO E_Commerce
 (id, product_name,category,price)
 VALUES(1, "Laptop", "Electronics", 55000),
 (2, "Laptop", "Electronics", 60000),
