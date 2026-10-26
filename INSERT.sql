@@ -1,0 +1,22 @@
+[9:00 pm, 26/10/2026] Saiganesh Bandi: INSERT INTO E_Commerce
+(id, product_name,category,price)
+VALUES(1, "Laptop", "Electronics", 55000),
+(2, "Laptop", "Electronics", 60000),
+(3, "Smartphone", "Mobiles", 25000),
+(4, "Iphone15", "Mobiles", 60000),
+(5, "Headphones", "Accessories", 3000),
+(6, "Smartwatch", "Wearables", 2500),
+(7, "Tablet", "Electronics", 22000),
+(8, "Keyboard", "Accessories", 1500),
+(9, "Monitor", "Electronics", 12000),
+(10, "Camera", "Electronics", 30000),
+(11, "Printer", "Electronics", 8000),
+(12, "Router", "Networking", 4000),
+(13, "Speaker", "Accessories", 2000),
+(14, "Mouse", "Accessories", 1000),
+(15, "External Hard Drive", "Storage", 5000),
+(16, "USB Flash Drive", "Storage", 500),
+(17, "Graphics Card", "Electronics", 15000),
+(18, "Motherboard", "Electronics", 10000),
+(19, "Power Supply", "Electronics", 6000),
+(20, "Cooling Fan", "Electronics", 1200);
